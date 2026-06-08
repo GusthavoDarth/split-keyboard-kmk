@@ -37,8 +37,8 @@ Each half uses a Raspberry Pi Pico flashed with CircuitPython + KMK. The two hal
 ```
 .
 ├── firmware/
-│   ├── main.py       # Entry point, keymap
-│   └── kb.py         # Hardware definition (pins, matrix)
+│   working in progress
+│   
 ├── images/
 │   └── keyboard images
 └── README.md
