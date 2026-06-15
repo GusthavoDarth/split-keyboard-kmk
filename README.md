@@ -2,7 +2,7 @@
 
 A handmade 42-key split mechanical keyboard built around two Raspberry Pi Picos running [KMK firmware](https://github.com/KMKfw/kmk_firmware) in MicroPython. The case was sculpted by hand using air-dry clay.
 
-![Split Keyboard](./images/image5.webp)
+![Split Keyboard](./hardware/image5.webp)
 
 ## Hardware
 
